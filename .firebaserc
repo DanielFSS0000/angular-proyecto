@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "empleados-9625f": {
+      "hosting": {
+        "empleados": [
+          "empleados-9625f"
+        ]
+      }
+    }
+  }
+}
